@@ -17,6 +17,11 @@ def encontrar_centroide(coordenadas):
 madrid = (40.4168, -3.7038)
 gran_canaria = (27.9836, -15.5926)
 haarlem = (52.3874, 4.8990)
+lastablas = (40.501412355861895, -3.6759313124370827)
+algete = (40.59348518385892, -3.4939150293491417)
+tetuan = (40.46006964728371, -3.697117475996144)
+cobenya = (40.57411313255811, -3.5029425855559206)
+elcanya = (40.401718600008515, -3.5585429388276837)
 
 # Lista of coordinates
 coordenadas_amigos = [madrid, gran_canaria, haarlem]
